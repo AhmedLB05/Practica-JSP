@@ -9,7 +9,6 @@ import java.util.Properties;
 
 public class ConexionDB {
 
-    // Se carga una sola vez al arrancar
     private static final Properties PROPS = cargarPropiedades();
 
     private static Properties cargarPropiedades() {
