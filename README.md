@@ -51,3 +51,8 @@ El script `sql/init.sql` creará las siguientes tablas con sus correspondientes 
    ```
 3. Despliega el archivo `.war` generado en tu servidor de aplicaciones.
 4. Accede a la aplicación a través del navegador (habitualmente en `http://localhost:8080/polideportivo-jsp`).
+
+## 📈 Diagrama de flujo
+<img width="2665" height="2031" alt="mermaid-diagram-2026-05-19-145346" src="https://github.com/user-attachments/assets/892dfa1f-4442-4eb4-9cc1-383c8bfc27ad" />
+
+
