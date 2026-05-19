@@ -1,0 +1,15 @@
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: mysql_polideportivo
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: polideportivo
+    ports:
+      - "3306:3306"
+    volumes:
+      - ./sql/init.sql:/docker-entrypoint-initdb.d/init.sql
+      - datos_mysql:/var/lib/mysql
+
+volumes:
+  datos_mysql:

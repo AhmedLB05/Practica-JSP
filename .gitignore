@@ -1,0 +1,13 @@
+polideportivo-jsp/target/
+polideportivo-jsp/out/
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.settings/
+.classpath
+.project
+.DS_Store
+Thumbs.db
+*.pdf
