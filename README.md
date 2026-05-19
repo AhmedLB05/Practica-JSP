@@ -19,12 +19,6 @@ Aplicación web desarrollada con tecnología Java JSP (JavaServer Pages) y Jakar
 4. **Sistema de Reservas:** Creación de reservas para pistas libres y posibilidad de cancelar reservas propias desde el panel del usuario.
 5. **Chat Interno:** Mensajería directa entre usuarios. Permite ponerse en contacto de forma ágil haciendo clic sobre el nombre del usuario que reservó una pista.
 
-## 📊 Diagrama de Flujo del Sistema
-
-A continuación se muestra el diagrama que representa el flujo de funcionamiento y navegación del sistema:
-
-![Diagrama de Flujo del Sistema](diagrama-flujo.png)
-
 ## 📦 Requisitos Previos
 
 * Docker y Docker Compose instalados.
